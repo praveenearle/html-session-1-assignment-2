@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\bin\html session1 assign 2.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\bin\html session1 assign 2.dll
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\bin\html session1 assign 2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\bin\html session1 assign 2.xml
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\obj\Debug\html_session1_assign_2.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\obj\Debug\html session1 assign 2.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\obj\Debug\html session1 assign 2.dll
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\obj\Debug\html session1 assign 2.xml
+c:\users\admin\documents\visual studio 2013\Projects\html session1 assign 2\html session1 assign 2\obj\Debug\html session1 assign 2.pdb
